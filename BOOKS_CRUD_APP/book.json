@@ -1,0 +1,452 @@
+[
+  {
+    "id": "1159142",
+    "title": "Agile Web Development with Rails",
+    "author": "Sam Ruby, Dave Thomas, David Heinemeier Hansson",
+    "categories": "Web development",
+    "year": "2010",
+    "edition": "Fourth Edition",
+    "language": "en"
+  },
+  {
+    "id": "2375753",
+    "title": "Flask Web Development",
+    "author": "Miguel Grinberg",
+    "categories": "python,pyhton web development,flask",
+    "year": "0",
+    "edition": null,
+    "language": ""
+  },
+  {
+    "id": "592321",
+    "title": "Agile web development with rails: a Pragmatic guide",
+    "author": "Dave Thomas, David Heinemeier Hansson, Leon Breedt, Mike Clark, Thomas Fuchs, Andrea Schwarz",
+    "categories": "'Web site development -- Handbooks, manuals, etc.','Ruby (Computer program language) -- Handbooks, manuals, etc.','Sites Web -- DeРњРѓveloppement -- Guides, manuels, etc.','Ruby (Langage de programmation) -- Guides, manuels, etc.'",
+    "year": "2005",
+    "edition": "1",
+    "language": "en"
+  },
+  {
+    "id": "643503",
+    "title": "CakePHP Application Development: Step-by-step introduction to rapid web development using the open-source MVC CakePHP framework",
+    "author": "Ahsanul Bari, Anupom Syam",
+    "categories": "Computer Science/Web/Server Side Scripting/PHP",
+    "year": "2008",
+    "edition": "",
+    "language": "en"
+  },
+  {
+    "id": "547307",
+    "title": "Alex Homer, ASP.NET 2.0 Visual Web Developer 2005",
+    "author": "David Sussman",
+    "categories": "Компьютерная литература\\11 web строительство\\Web - строительство, ASP.NET\\",
+    "year": "2006",
+    "edition": "",
+    "language": "en"
+  },
+  {
+    "id": "643519",
+    "title": "PHP Oracle Web Development: Data processing, Security, Caching, XML, Web Services, and Ajax: A practical guide to combining the power, performance, scalability, ... time, and high performance of PHP",
+    "author": "Yuli Vasiliev",
+    "categories": "Computer Science/Web/Server Side Scripting/PHP",
+    "year": "2007",
+    "edition": "1st Ed.",
+    "language": "en"
+  },
+  {
+    "id": "2166584",
+    "title": "WordPress for Web Developers: An Introduction for Web Professionals",
+    "author": "Stephanie Leary (auth.)",
+    "categories": "Computers\\\\Web-design",
+    "year": "2013",
+    "edition": "",
+    "language": "en"
+  },
+  {
+    "id": "643521",
+    "title": "MODx Web Development",
+    "author": "Antano Solar John, Antano Solar John",
+    "categories": "Computer Science/Web/Server Side Scripting/PHP",
+    "year": "2009",
+    "edition": "",
+    "language": "en"
+  },
+  {
+    "id": "682493",
+    "title": "Grok 1.0 Web Development",
+    "author": "Carlos de la Guardia",
+    "categories": "Computing -Web",
+    "year": "2010",
+    "edition": "",
+    "language": "en"
+  },
+  {
+    "id": "682507",
+    "title": "Professional JavaScript for Web Developers",
+    "author": "Nicholas C. Zakas",
+    "categories": "Computing -Web",
+    "year": "2009",
+    "edition": "2",
+    "language": "en"
+  },
+  {
+    "id": "740977",
+    "title": "Art of Java Web Development: Struts, Tapestry, Commons, Velocity, JUnit, Axis, Cocoon, InternetBeans, WebWork",
+    "author": "Neal Ford",
+    "categories": "computers, computers/web",
+    "year": "2003",
+    "edition": "",
+    "language": "en"
+  },
+  {
+    "id": "826704",
+    "title": "Agile.Web.Development.with.Rails.4th.Edition",
+    "author": "the pragmatic programmers",
+    "categories": "web programming",
+    "year": "0",
+    "edition": null,
+    "language": ""
+  },
+  {
+    "id": "879439",
+    "title": "Beginning CSS Web Development: From Novice to Professional",
+    "author": "Simon Collison",
+    "categories": "Компьютеры//Web-дизайн",
+    "year": "2006",
+    "edition": "",
+    "language": "en"
+  },
+  {
+    "id": "1159094",
+    "title": "Beginning PHP 6, Apache, MySQL 6 Web Development",
+    "author": "Timothy Boronczyk",
+    "categories": "КНИГИ  WEB-СОЗИДАНИЕ",
+    "year": "2009",
+    "edition": "",
+    "language": "en"
+  },
+  {
+    "id": "2054864",
+    "title": "Web development solutions : Ajax, APIs, libraries, and hosted services made easy",
+    "author": "Christian Heilmann; Mark Norman Francis",
+    "categories": "Computers\\\\Web-design",
+    "year": "0",
+    "edition": "",
+    "language": "en"
+  },
+  {
+    "id": "2379269",
+    "title": "Instant Web Scraping with Java",
+    "author": "Ryan Mitchell",
+    "categories": "Web Development",
+    "year": "0",
+    "edition": null,
+    "language": ""
+  },
+  {
+    "id": "737930",
+    "title": "Beginning Smartphone Web Development: Building Javascript, CSS, HTML and Ajax-Based Applications for iPhone, Android, Palm Pre, Blackberry, Windows Mobile and Nokia S60",
+    "author": "Gail Frederick, Rajesh Lal",
+    "categories": "Computers / Programming / Software Development",
+    "year": "2010",
+    "edition": "1st Edition.",
+    "language": "en"
+  },
+  {
+    "id": "2379675",
+    "title": "Full Stack Web Development with Backbone.js",
+    "author": "Patrick Mulder",
+    "categories": "Development",
+    "year": "0",
+    "edition": null,
+    "language": ""
+  },
+  {
+    "id": "632635",
+    "title": "The Microsoft Expression Web Developer's Guide to ASP.NET 3.5: Learn to create ASP.NET applications using Visual Web Developer 2008",
+    "author": "Jim Cheshire",
+    "categories": "Computer science",
+    "year": "2007",
+    "edition": "1",
+    "language": "en"
+  },
+  {
+    "id": "682322",
+    "title": "Tapestry 5: Building Web Applications: A step-by-step guide to Java Web development with the developer-friendly Apache Tapestry framework",
+    "author": "Alexander Kolesnikov",
+    "categories": "Computer science",
+    "year": "2008",
+    "edition": "",
+    "language": "en"
+  },
+  {
+    "id": "739099",
+    "title": "Tapestry 5: Building Web Applications: A step-by-step guide to Java Web development with the developer-friendly Apache Tapestry framework",
+    "author": "Alexander Kolesnikov",
+    "categories": "",
+    "year": "2008",
+    "edition": "",
+    "language": "en"
+  },
+  {
+    "id": "918100",
+    "title": "PHP 5 Fast and Easy Web Development (Fast and Easy Web Development)",
+    "author": "Julie C. Meloni",
+    "categories": "Компьютеры//Программирование//Языки программирования",
+    "year": "2008",
+    "edition": "1",
+    "language": "en"
+  },
+  {
+    "id": "932675",
+    "title": "Macromedia Flash MX 2004 Fast & Easy Web Development (Fast & Easy Web Development)",
+    "author": "Lisa A. Bucki",
+    "categories": "Компьютеры//Программы//Продукты Macromedia",
+    "year": "2006",
+    "edition": "1",
+    "language": "en"
+  },
+  {
+    "id": "1065073",
+    "title": "PHP Fast & Easy Web Development, 2nd Edition (Fast & Easy Web Development)",
+    "author": "Julie C. Meloni",
+    "categories": "",
+    "year": "2002",
+    "edition": "2",
+    "language": "en"
+  },
+  {
+    "id": "1065771",
+    "title": "Perl Fast & Easy Web Development (Fast & Easy Web Development)",
+    "author": "Leslie W. Bate",
+    "categories": "",
+    "year": "2002",
+    "edition": "1",
+    "language": "en"
+  },
+  {
+    "id": "2052811",
+    "title": "PHP Oracle web development : data processing, security, caching, XML, web services and AJAX : a practical guide to combining the power, performance, scalability, and reliability of Oracle Database with the ease of use, short development time, and high per",
+    "author": "Yuli Vasiliev",
+    "categories": "Computers\\\\Programming: Programming Languages",
+    "year": "2007",
+    "edition": "",
+    "language": "en"
+  },
+  {
+    "id": "2082314",
+    "title": "PHP Oracle Web Development: Data processing, Security, Caching, XML, Web Services, and Ajax: A practical guide to combining the power, performance, ... development time, and high performance of PHP",
+    "author": "Yuli Vasiliev",
+    "categories": "Computers\\\\Programming",
+    "year": "2007",
+    "edition": "1st Ed.",
+    "language": "en"
+  },
+  {
+    "id": "2171074",
+    "title": ".NET Mobile Web Developers Guide. Web Developer's Guide",
+    "author": "Steve Milroy, Ken Cox, Doug Safford, Laura Barker, Amit Kalani and Wei Meng Lee (Auth.)",
+    "categories": "",
+    "year": "2001",
+    "edition": "",
+    "language": "en"
+  },
+  {
+    "id": "2216623",
+    "title": "Tapestry 5: Building Web Applications: A step-by-step guide to Java Web development with the developer-friendly Apache Tapestry framework",
+    "author": "Alexander Kolesnikov",
+    "categories": "",
+    "year": "2008",
+    "edition": "",
+    "language": "en"
+  },
+  {
+    "id": "2329493",
+    "title": "Learn Java for Web Development: Modern Java Web Development",
+    "author": "Vishal Layka",
+    "categories": "",
+    "year": "2014",
+    "edition": "1",
+    "language": "en"
+  },
+  {
+    "id": "2340139",
+    "title": "Flask Web Development: Developing Web Applications with Python",
+    "author": "Miguel Grinberg",
+    "categories": "",
+    "year": "2014",
+    "edition": "1",
+    "language": "en"
+  },
+  {
+    "id": "2340140",
+    "title": "Flask Web Development: Developing Web Applications with Python",
+    "author": "Miguel Grinberg",
+    "categories": "",
+    "year": "2014",
+    "edition": "1",
+    "language": "en"
+  },
+  {
+    "id": "2492858",
+    "title": "Developing Web Apps with Haskell and Yesod: Safety-Driven Web Development",
+    "author": "Michael Snoyman",
+    "categories": "",
+    "year": "2015",
+    "edition": "2",
+    "language": "en"
+  },
+  {
+    "id": "2521518",
+    "title": "Developing Web Apps with Haskell and Yesod: Safety-Driven Web Development",
+    "author": "Michael Snoyman",
+    "categories": "",
+    "year": "2015",
+    "edition": "2",
+    "language": "en"
+  },
+  {
+    "id": "643560",
+    "title": "Web Design for Developers: A Programmer's Guide to Design Tools and Techniques (The Pragmatic Programmers)",
+    "author": "Brian P. Hogan",
+    "categories": "Computer Science/Web/Web Design",
+    "year": "2009",
+    "edition": "1",
+    "language": "en"
+  },
+  {
+    "id": "2284255",
+    "title": "PHPEclipse: A User Guide: Take advantage of the leading open source integrated development environment to develop, organize, and debug your PHP web development projects.",
+    "author": "Shu-Wai Chow",
+    "categories": "Компьютеры\\\\Программирование: Языки программирования",
+    "year": "2006",
+    "edition": "",
+    "language": "en"
+  },
+  {
+    "id": "501342",
+    "title": "GIS for Web Developers: Adding Where to Your Web Applications (2007)(en)(254s)",
+    "author": "Scott Davis",
+    "categories": "",
+    "year": "2007",
+    "edition": "1",
+    "language": "en"
+  },
+  {
+    "id": "547317",
+    "title": "Moodle. E-Learning Course Development",
+    "author": "William Rice",
+    "categories": "Компьютерная литература\\11 web строительство\\Web - строительство, ASP.NET\\",
+    "year": "2006",
+    "edition": "",
+    "language": "en"
+  },
+  {
+    "id": "608485",
+    "title": "Spring Web Flow 2 Web Development",
+    "author": "Sven Lüppken, Markus Stäuble",
+    "categories": "",
+    "year": "2009",
+    "edition": "",
+    "language": "en"
+  },
+  {
+    "id": "614573",
+    "title": "Catalyst - Accelerating Perl Web Application Development",
+    "author": "Jonathan Rockway",
+    "categories": "WEB дизайн/разработка",
+    "year": "2007",
+    "edition": "",
+    "language": "en"
+  },
+  {
+    "id": "633089",
+    "title": "Spring Web Flow 2 Web Development",
+    "author": "Sven Lüppken, Markus Stäuble",
+    "categories": "Computer science",
+    "year": "2009",
+    "edition": "",
+    "language": "en"
+  },
+  {
+    "id": "656152",
+    "title": "GIS for Web Developers: Adding 'Where' to Your Web Applications",
+    "author": "Scott Davis",
+    "categories": "",
+    "year": "2007",
+    "edition": "1",
+    "language": "en"
+  },
+  {
+    "id": "682357",
+    "title": "Even Faster Web Sites: Performance Best Practices for Web Developers",
+    "author": "Steve Souders",
+    "categories": "",
+    "year": "2009",
+    "edition": "1",
+    "language": "en"
+  },
+  {
+    "id": "682381",
+    "title": "Spring Web Flow 2 Web Development",
+    "author": "Sven Lüppken, Markus Stäuble",
+    "categories": "",
+    "year": "2009",
+    "edition": "",
+    "language": "en"
+  },
+  {
+    "id": "682503",
+    "title": "Developing Large Web Applications: Producing Code That Can Grow and Thrive",
+    "author": "Kyle Loudon",
+    "categories": "Computing -Web",
+    "year": "2010",
+    "edition": "1",
+    "language": "en"
+  },
+  {
+    "id": "739050",
+    "title": "Even Faster Web Sites: Performance Best Practices for Web Developers",
+    "author": "Steve Souders",
+    "categories": "",
+    "year": "2009",
+    "edition": "1",
+    "language": "en"
+  },
+  {
+    "id": "739106",
+    "title": "Even Faster Web Sites: Performance Best Practices for Web Developers",
+    "author": "Steve Souders",
+    "categories": "",
+    "year": "2009",
+    "edition": "1",
+    "language": "en"
+  },
+  {
+    "id": "843714",
+    "title": "Spring Web Flow 2 Web Development",
+    "author": "Sven Luppken, Markus Stauble",
+    "categories": "Компьютеры//Сети//Интернет",
+    "year": "2009",
+    "edition": "",
+    "language": "en"
+  },
+  {
+    "id": "853858",
+    "title": "Communicating Design: Developing Web Site Documentation for Design and Planning (2nd Edition) (Voices That Matter)",
+    "author": "Dan M. Brown",
+    "categories": "Компьютеры//Web-дизайн",
+    "year": "2009",
+    "edition": "2",
+    "language": "en"
+  },
+  {
+    "id": "871871",
+    "title": "Weaving a Library Web: A Guide to Developing Children's Websites",
+    "author": "Helene Blowers",
+    "categories": "Компьютеры//Web-дизайн",
+    "year": "2009",
+    "edition": "",
+    "language": "en"
+  }
+]
