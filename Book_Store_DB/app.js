@@ -14,9 +14,9 @@ app.use(express.json());
 app.use(morgan("dev"));
 app.use(logger);
 
-app.use("/api/categories", bookRoutes);
+app.use("/api/books", bookRoutes);
 app.use("/api/authors", authorRoutes);
-app.use("/api/books", categoryRoutes);
+app.use("/api/categories", categoryRoutes);
 
 connectMongodb("mongodb://127.0.0.1:27017/book_store").then(() =>
   console.log("Connected to MongoDB")

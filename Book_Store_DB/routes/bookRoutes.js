@@ -2,7 +2,7 @@ const express = require("express");
 const { validateBook } = require("../middlewares/validateData");
 // const mongoose = require("mongoose");
 const router = express.Router();
-const Book = require("../models/bookModel");
+// const Book = require("../models/bookModel");
 const {
   handleGetBook,
   handleGetBookById,
@@ -11,12 +11,12 @@ const {
   handleUpdateBookById,
 } = require("../controller/bookController");
 
-router.route("/").get(handleGetBook).post(handleAddBook);
+router.route("/").get(handleGetBook).post(validateBook, handleAddBook);
 
 router
   .route("/:id")
   .get(handleGetBookById)
-  .put(handleUpdateBookById)
+  .put(validateBook, handleUpdateBookById)
   .delete(handleDeleteBook);
 
 module.exports = router;

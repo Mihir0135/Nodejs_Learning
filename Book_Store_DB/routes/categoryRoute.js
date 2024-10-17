@@ -1,5 +1,4 @@
 const { validateCategory } = require("../middlewares/validateData");
-const Category = require("../models/categoryModel");
 const express = require("express");
 const router = express.Router();
 const {
@@ -10,12 +9,15 @@ const {
   handleUpdateCategoryById,
 } = require("../controller/categoryController");
 
-router.route("/").get(handleAddCategory).post(handleAddCategory);
+router
+  .route("/")
+  .get(handleGetCategories)
+  .post(validateCategory, handleAddCategory);
 
 router
   .route("/:id")
   .get(handleGetCategoryById)
-  .put(handleUpdateCategoryById)
+  .put(validateCategory, handleUpdateCategoryById)
   .delete(handleDeleteCategory);
 
 module.exports = router;
