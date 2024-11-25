@@ -8,16 +8,17 @@ const {
   handleDeleteCategory,
   handleUpdateCategoryById,
 } = require("../controller/categoryController");
+const { validateRoleAccess } = require("../middlewares/validateAuthorization");
 
 router
   .route("/")
   .get(handleGetCategories)
-  .post(validateCategory, handleAddCategory);
+  .post([validateCategory, validateRoleAccess], handleAddCategory);
 
 router
   .route("/:id")
   .get(handleGetCategoryById)
-  .put(validateCategory, handleUpdateCategoryById)
-  .delete(handleDeleteCategory);
+  .put([validateCategory, validateRoleAccess], handleUpdateCategoryById)
+  .delete(validateRoleAccess, handleDeleteCategory);
 
 module.exports = router;

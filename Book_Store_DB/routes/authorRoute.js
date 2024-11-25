@@ -8,13 +8,17 @@ const {
   handleGetAuthorById,
   handleUpdateAuthorById,
 } = require("../controller/authorController");
+const { validateRoleAccess } = require("../middlewares/validateAuthorization");
 
-router.route("/").get(handleGetAuthor).post(validateAuthor, handleAddAuthor);
+router
+  .route("/")
+  .get(handleGetAuthor)
+  .post([validateAuthor, validateRoleAccess], handleAddAuthor);
 
 router
   .route("/:id")
   .get(handleGetAuthorById)
-  .put(validateAuthor, handleUpdateAuthorById)
-  .delete(handleDeleteAuthor);
+  .put([validateAuthor, validateRoleAccess], handleUpdateAuthorById)
+  .delete(validateRoleAccess, handleDeleteAuthor);
 
 module.exports = router;

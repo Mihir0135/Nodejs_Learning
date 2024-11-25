@@ -47,4 +47,34 @@ const validateCategory = (req, res, next) => {
   next();
 };
 
-module.exports = { validateBook, validateAuthor, validateCategory };
+const validateUser = (req, res, next) => {
+  const userSchema = Joi.object({
+    name: Joi.string().min(5).max(50).required(),
+    email: Joi.string().min(5).max(255).required().email(),
+    password: Joi.string().min(5).max(255).required(),
+    role: Joi.string().required(),
+  });
+
+  const { error } = userSchema.validate(req.body);
+  if (error) return res.status(400).json({ error: error.details[0].message });
+  next();
+};
+
+const validateAuthUser = (req, res, next) => {
+  const authSchema = Joi.object({
+    email: Joi.string().min(5).max(255).required().email(),
+    password: Joi.string().min(5).max(255).required(),
+  });
+
+  const { error } = authSchema.validate(req.body);
+  if (error) return res.status(400).json({ error: error.details[0].message });
+  next();
+};
+
+module.exports = {
+  validateBook,
+  validateAuthor,
+  validateCategory,
+  validateUser,
+  validateAuthUser,
+};
